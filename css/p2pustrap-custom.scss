@@ -14,7 +14,7 @@
 {% if site.jumbotron_background_image %}
 	$jumbotron-image: '{{ site.jumbotron_background_image }}';
 {% else %}
-	$jumbotron-image: 'banner.svg';
+	$jumbotron-image: 'books.png';
 {% endif %}
 
 @import "common";
