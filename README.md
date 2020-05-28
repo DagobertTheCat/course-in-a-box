@@ -2,8 +2,6 @@
 
 
 ## Welcome to the Digital Library Notebook
-
-
  
 ---
 
