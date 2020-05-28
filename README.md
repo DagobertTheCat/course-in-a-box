@@ -1,9 +1,9 @@
-# Everything you need to create an online course in a box
+# Berkeley Library
 
 
-## How do I get started?
+## 
 
-Head on over to [howto.p2pu.org](http://howto.p2pu.org). Everything you need to know is over there and once you are done we'll be waiting for you here!
+
  
 ---
 
