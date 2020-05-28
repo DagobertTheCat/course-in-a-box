@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-## Digital Library Notebook
+## Welcome to the Digital Library Notebook
 
 Welcome to the Digital Library Notebook! While we can't be there for you in person at Berkeley Libraries, we are happy to help you learn how to do digital research and access the wealth of resources the Library makes available to you wherever you are in the world.
 
