@@ -1,4 +1,7 @@
-
+---
+layout: index
+published: true
+---
 
 ## Digital Library Notebook
 
